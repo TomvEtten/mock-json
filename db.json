@@ -1,17 +1,37 @@
 {
   "Task" : [
     {
-      "id": 1,
-      "title": "Task",
-      "description": "Bla bla bla jan",
-      "date_time": "2019-09-24T15:08:50.455+0200",
-      "engineer_id": 5
+      "title": "Repair Wifi router",
+      "description": "Repair a wifi ANLEX-124125 Router with the provided supplies",
+      "circumstances" : "Dogs attacks Ziggo engineers on sight",
+      "contactPerson" : "Jan van schoten",
+      "contactPhoneNumber": "+31639808704",
+      "start_time": "2019-09-24T15:08:50.455+0200",
+      "end_time": "2019-09-24T15:10:50.455+0200",
+      "place" : "Amsterdam",
+      "street" : "Kabelweg",
+      "postal_code" : "1014BA",
+      "house_number" : "12",
+      "country" : "Netherlands",
+      "engineer_id": 5,
+      "uuid" : "7ddfd43b-1662-4657-9313-08004301b7bc",
+      "notes": ""
     },{
-      "id": 2,
-      "title": "Task",
-      "description": "Bla bla bla Rock",
-      "date_time": "2019-09-24T15:08:50.455+0200",
-      "engineer_id": 5
+      "title": "Fix internet because reddit is super slow",
+      "description": "Client has much interference on his internet, please investigate the signal",
+      "circumstances" : "Client is deaf, so please use signal language to communicate",
+      "contactPerson" : "Leo Tuckker",
+      "contactPhoneNumber": "+31639808704",
+      "start_time": "2019-09-25T15:08:50.455+0200",
+      "end_time": "2019-09-25T15:10:50.455+0200",
+      "place" : "Utrecht",
+      "street" : "boven vredenbrugpassage",
+      "postal_code" : "3511WR",
+      "house_number" : "128",
+      "country" : "Netherlands",
+      "engineer_id": 5,
+      "uuid" : "d43c070d-a933-47e4-a992-6392226a9344",
+      "notes": ""
     }
 
   ]
